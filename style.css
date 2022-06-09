@@ -75,6 +75,14 @@ ul {
     text-decoration: none;
     
   }
+
+  .product-items a{
+    font-size: 14px;
+  }
+
+  .product-items li{
+    margin:  0 10px;
+  }
   
   li a:hover {
     background-color:white;
@@ -285,7 +293,7 @@ ul {
   }
 
   .product-items ul li{
-    width: 120px;
+    width: 105px;
     line-height: 30px;
     color: #6676a4;
   }

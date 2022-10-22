@@ -56,7 +56,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
+    background-color: rgb(98, 89, 89);
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
@@ -77,11 +77,11 @@ ul {
   }
 
   .product-items a{
-    font-size: 14px;
+    font-size: 13px;
   }
 
   .product-items li{
-    margin:  0 10px;
+    margin:  0 11px;
   }
   
   li a:hover {
